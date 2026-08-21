@@ -1,0 +1,10 @@
+[package]
+name = "jj-gh"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "jj-gh"
+path = "src/main.rs"
+
+[dependencies]
